@@ -2,29 +2,39 @@ import pinecone
 import os
 import numpy as np
 from dotenv import load_dotenv
+from PyPDF2 import PdfReader
+from langchain import OpenAIEmbeddings, PineconeStore
 
-data_dir = "data/NDA/"
+load_dotenv()
+
+data_dir = "data/"
 index_name = "legalease-nda"
 
 # Connect to Pinecone
-pinecone.init(api_key='PINECONE_API_KEY', environment='PINECONE_ENV')
+pinecone.init(api_key=os.getenv('PINECONE_API_KEY'), environment=os.getenv('PINECONE_ENV'))
 
-# Get all files in data_dir
+index = pinecone.Index(index_name)
+# wait a moment for the index to be fully initialized
+time.sleep(1)
+
+# files
 files = os.listdir(data_dir)
 print(files)
 
-# Iterate over files and add them to the index
+# Extract text from multiple PDF files in a directory, encode it and push to index
 for file in files:
 	# Load the data from the file
-	data = np.load(os.path.join(data_dir, file))
+	pdf_reader = PdfReader(os.path.join(data_dir, file))
+	text = ""
+	for page in pdf_reader.pages:
+		text += page.extract_text()
 	
 	# Encode the data using a vector encoder
-	encoder = pinecone.Index(index_name).vector_encoder()
-	vectors = encoder.encode(data)
+	embeddings = OpenAIEmbeddings()
+	PineconeStore.fromDocuments(text, embeddings)
 	
 	# Add the encoded vectors to the index
 	pinecone.Index(index_name).upsert(vectors)
 
 # Disconnect from Pinecone
 pinecone.deinit()
-
