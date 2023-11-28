@@ -43,6 +43,8 @@ if file is not None:
     embeddings = OpenAIEmbeddings()
     knowledge_base = FAISS.from_texts(chunks, embeddings)
 
+    chat_history = []
+    chat_history_file = "chat_history_gen.txt"
     query = st.text_input("Ask you question")
     if query:
         docs = knowledge_base.similarity_search(query)
@@ -50,6 +52,16 @@ if file is not None:
         llm = OpenAI()
         chain = load_qa_chain(llm, chain_type="stuff")
         response = chain.run(input_documents=docs, question=query)
+        result = response(
+        {"question": query, "chat_history": chat_history})
+        print(f"Answer: " + result["answer"])
+        chat_history.append((query, result["answer"]))
+
+        with open(chat_history_file, "a") as f:
+            f.write(f"Q: {query}\n")
+            f.write(f"A: {result['answer']}\n")
+            f.write("----------------------------------------\n")
+        
            
         st.success(response)
 
