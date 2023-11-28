@@ -13,8 +13,8 @@ from langchain.callbacks import get_openai_callback
 load_dotenv()
 from PIL import Image
 
-img = Image.open(r"streamlit_apps\understanding\logo.png")
-st.set_page_config(page_title="LegalEase: Understand with Ease", page_icon=img)
+# img = Image.open(r"streamlit_apps\understanding\logo.png")
+st.set_page_config(page_title="LegalEase: Understand with Ease")
 st.header("LegalEase: Understand with Ease📄")
 file = st.file_uploader("Upload your file")
 
