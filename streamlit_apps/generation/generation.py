@@ -92,3 +92,4 @@ if file is not None:
 
 #     # Add the encoded vectors to the Pinecone index
 #     pinecone.Index(index_name).upsert(ids=[pdf_file], vectors=vectors)
+
