@@ -10,6 +10,17 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.chains import ConversationalRetrievalChain
 from langchain.vectorstores import DocArrayInMemorySearch
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+from dotenv import load_dotenv
+import os
+import streamlit as st
+from PyPDF2 import PdfReader
+import textract
+from langchain.text_splitter import CharacterTextSplitter
+from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain.vectorstores import FAISS
+from langchain.chains.question_answering import load_qa_chain
+from langchain.llms import OpenAI
+from langchain.callbacks import get_openai_callback
 
 st.set_page_config(page_title="LegalEase: Understand with Ease", page_icon="⚖️")
 st.header('LegalEase: Understand with Ease🌐')
