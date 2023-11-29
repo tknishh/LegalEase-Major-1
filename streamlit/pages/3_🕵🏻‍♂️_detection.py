@@ -7,8 +7,8 @@ from langchain.tools import DuckDuckGoSearchRun
 from langchain.agents import initialize_agent, Tool
 from langchain.callbacks import StreamlitCallbackHandler
 
-st.set_page_config(page_title="ChatWeb", page_icon="🌐")
-st.header('Chatbot with Internet Access')
+st.set_page_config(page_title="LegalEase: Detect with Ease", page_icon="⚖️")
+st.header('LegalEase: Detect with Ease🕵️‍♂️')
 st.write('Equipped with internet access, enables users to ask questions about recent events')
 with st.expander("Implementation details"):
     st.markdown("""

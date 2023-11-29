@@ -5,9 +5,11 @@ from streaming import StreamHandler
 from langchain.llms import OpenAI
 from langchain.chains import ConversationChain
 
-st.set_page_config(page_title="Chatbot", page_icon="💬")
-st.header('Basic Chatbot')
-st.write('Allows users to interact with the LLM')
+st.set_page_config(page_title="LegalEase: Generate with Ease", page_icon="⚖️")
+st.header('LegalEase: Generate with Ease📃')
+st.markdown("""
+    Generate basic documents required by startups from below list with ease.
+    """)
 with st.expander("Implementation details"):
     st.markdown("""
     - LLM - [OpenAI](https://python.langchain.com/docs/ecosystem/integrations/openai#llm)

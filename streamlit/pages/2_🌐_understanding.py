@@ -11,9 +11,9 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain.vectorstores import DocArrayInMemorySearch
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-st.set_page_config(page_title="ChatPDF", page_icon="📄")
-st.header('Chat with your documents')
-st.write('Has access to custom documents and can respond to user queries by referring to the content within those documents')
+st.set_page_config(page_title="LegalEase: Understand with Ease", page_icon="⚖️")
+st.header('LegalEase: Understand with Ease🌐')
+st.write('Upload your legal documents and chat with them to go through them quickly yet effectively.')
 with st.expander("Implementation details"):
     st.markdown("""
     - LLM - [OpenAI](https://python.langchain.com/docs/ecosystem/integrations/openai#llm)
