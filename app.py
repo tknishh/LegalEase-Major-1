@@ -1,24 +1,48 @@
 import streamlit as st
-
-# Set the title of the app
-st.title("LegalEase")
-
-# Add a heading for the "Generation" block
-if st.button("Generation"):
-    # Redirect to a new streamlit page for generation
-    if st.button("Upload new template"):
-        # Call a function to handle uploading new template
-        upload_new_template()
-    elif st.button("Work with existing template"):
-        # Call a function to handle working with existing template
-        work_with_existing_template()
+import textract
+from PyPDF2 import PdfReader
 
 
-# Add a heading for the "Understanding" block
-if st.button("Understanding"):
-    # Add content for the "Understanding" block
-    st.write("This block is about understanding.")
+def upload_new_template():
+    # Function to handle uploading new template
+    st.write("Upload new template functionality goes here")
 
-# Run the app
+def work_with_existing_template(template):
+    # Function to handle working with existing template
+    st.write(f"Working with existing template: {template}")
+
+def generate_app():
+    st.title("LegalEase")
+
+    # Add a heading for the "Generation" block
+    if st.button("Generation"):
+        generation_option = st.radio("Select an option:", ("Upload new template", "Use existing template"))
+        if generation_option == "Upload new template":
+            upload_new_template()
+        elif generation_option == "Use existing template":
+            template = st.selectbox("Select a template:", ("NDA", "Master Agreement", "Evaluation Agreement"))
+            work_with_existing_template(template)
+
+    # Add a heading for the "Understanding" block
+    if st.button("Understanding"):
+        file = st.file_uploader("Upload your file")
+        if file is not None:
+            content = file.read()  # Read the file content once
+
+            if file.type == 'application/pdf':
+                pdf_reader = PdfReader(file)
+                text = ""
+                for page in pdf_reader.pages:
+                    text += page.extract_text()
+            elif file.type == 'text/plain':
+                text = content.decode('utf-8')
+            elif file.type == 'application/vnd.openxmlformats-officedocument.wordprocessingml.document':
+                text = textract.process(content)
+
+            query = st.text_input("Ask your question")
+            if query:
+                # Process the query and provide the answer
+                st.write(f"Processing query: {query}")
+
 if __name__ == "__main__":
-    pass
+    generate_app()
