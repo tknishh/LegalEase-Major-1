@@ -1,0 +1,416 @@
+State of __________
+EMPLOYEE NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT
+This Employee Non-Disclosure and Confidentiality Agreement (this “Agreement”) is entered into as of the ____________________, 20______ (the “Effective Date”) by and between:
+Employer: ________________________, a(n) (Check one) ☐ Individual ☐ Corporation
+☐ Limited Liability Company ☐ Partnership ☐ Limited Partnership ☐ Limited Liability Partnership (the "Company") and
+Employee: ________________________, an employee of the Company (the "Employee").
+The Company hired the Employee as ____________________________ [Position] pursuant to the terms and conditions of that certain Employment Agreement executed between the Parties on the ______ day of _______________, 20______ (the "Employment Agreement"). In connection with the Employee's duties under the Employment Agreement, the Company may disclose to the Employee certain confidential and proprietary information unique and valuable to its ongoing business operations. In consideration of the Employee's employment by the Company and the covenants and mutual promises contained herein, the parties agree as follows:
+1. Confidential Information. Confidential information is: (Check one)
+☐ All information shared by the Company. "Confidential Information" shall mean (i) all information relating to the Company’s products, business and operations including, but not limited to, financial documents and plans, customers, suppliers, manufacturing partners, marketing strategies, vendors, products, product development plans, technical product data, product samples, costs, sources, strategies, operations procedures, proprietary concepts, inventions, sales leads, sales data, customer lists, customer profiles, technical advice or knowledge, contractual agreements, price lists, supplier lists, sales estimates, product specifications, trade secrets, distribution methods, inventories, marketing strategies, source code, software, algorithms, data, drawings or schematics, blueprints, computer programs and systems and know-how or other intellectual property of the Company and its affiliates that may be at any time furnished, communicated or delivered by the Company to the Employee, whether in oral, tangible, electronic or other form; (ii) the terms of any agreement, including this Agreement, and the discussions, negotiations and proposals related to any agreement; (iii) information acquired during any tours of the Company’s facilities; and (iv) all other non-public information provided by the Company whosoever. All Confidential Information shall remain the property of the Company.
+☐ Only information marked ‘Confidential.’ "Confidential Information," exchanged by the parties and entitled to protection hereunder, shall be identified or marked as such by an appropriate stamp or marking on each document exchanged designating the information as confidential or proprietary.
+☐ Specific information. The term “Confidential Information” as used in this Agreement shall mean any data or information that is competitively sensitive material and not generally known to the public, including, but not limited to, information relating to any of the following, which the Company considers confidential: (Check all that apply)
+☐ 'Accounting Information' which includes all books, tax returns, financial information, financial forecasts, pricing lists, purchasing lists and memos, pricing forecasts, purchase order information, supplier costs and discounts, or related financial or purchasing information.
+☐ 'Business Operations' which includes all processes, proprietary information or data, ideas or the like, either in existence or contemplated related to the Company’s daily and long-term plans for conducting the Company's business.
+☐ 'Computer Technology' which includes all computer hardware, software or other tangible and intangible equipment or code either in existence or development.
+☐ 'Customer Information' which includes the names of entities or individuals, including their affiliates and representatives, that the Company provides and sells its services or goods to, as well as any associated information, including but not limited to, leads, contact lists, sales plans and notes, shared and learned sales information such as pricing sheets, projections or plans, agreements, or such other data.
+☐ 'Intellectual Property' which includes patents, trademarks, service marks, logos, trade names, internet or website domain names, rights in designs and schematics, copyrights (including rights in computer software), moral rights, database rights, in each case whether registered or unregistered and including applications for registration, in all rights or forms anywhere in the world.
+☐ 'Marketing and Sales Information' which includes all customer leads, sales targets, sales markets, advertising materials, sales territories, sales goals and projections, sales and marketing processes or practices, training manuals or other documentation and materials related to the sales, marketing and promotional activities of the the Company and its products or services.
+☐ 'Proprietary Rights’ which includes any and all rights, whether registered or unregistered, in and with respect to patents, copyrights, trade names, domain names, logos, trademarks, service marks, confidential information, know-how, trade secrets, moral rights, contract or licensing rights, whether protected under contract or otherwise under law, and other similar rights or interests in intellectual property.
+☐ 'Procedures and Specifications' which includes all procedures and other specifications, criteria, standards, methods, instructions, plans or other directions prescribed by the Company for the manufacture, preparation, packaging and labelling, and sale of its products or services.
+☐ 'Product Information' which includes the Company’s products which are being contemplated for sale, manufactured, marketed, listed, or sold, including any fixes, revisions, upgrades, or versions, of which consists of all data, software and documentation related thereto.
+☐ 'Service Information' which means the services provided by the Company, including the method, details, means, skills and training, which consists of all data, software and documentation related thereto.
+☐ 'Software Information' which means the proprietary computer programs of the Company, including all fixes, upgrades, new versions, new enhancements, modifications, edits, conversions, replacements, or the like, in machine readable form or documentation and materials, and all copies and translations of such computer programs, documentation and materials, regardless of the form or media of expression or storage.
+☐ Other: ________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________________
+2. Exclusions from Confidential Information. The obligation of confidentiality with respect to Confidential Information will not apply to any information:
+a. If the information is or becomes publicly known and available other than as a result of prior unauthorized disclosure by the Employee;
+b. If the information is or was received by the Employee from a third-party source which, to the best knowledge of the Employee, is or was not under a confidentiality obligation to the Company with regard to such information;
+c. If the information is disclosed by the Employee with the Company’s prior written permission and approval;
+d. If the information is independently developed by the Employee prior to disclosure by the Company and without the use and benefit of any of the Company’s Confidential Information; or
+e. If the Employee may disclose only such portion of the Confidential Information which it is legally obligated to disclose the Employee is legally compelled by applicable law, by any court, governmental agency, or regulatory authority or subpoena or discovery request in pending litigation, but only if, to the extent lawful, the Employee gives prompt written notice of that fact to the Company prior to disclosure so that the Company may request a protective order or other remedy, the Employee may disclose only such portion of the Confidential Information which it is legally obligated to disclose.
+3. Obligation to Maintain Confidentiality. With respect to Confidential Information:
+a. The Employee agrees to retain the Confidential Information in strict confidence, to protect the security, integrity, and confidentiality of such information and to not permit unauthorized access to or unauthorized use, disclosure, publication, or dissemination of Confidential Information except in conformity with this Agreement.
+b. Confidential Information is and will remain the sole and exclusive property of the Company and will not be disclosed or revealed by the Employee, except (i) to other employees of the Company who have a need to know such information and agree to be bound by the terms of this Agreement.
+c. The Employee agrees that, in the event the Employee must download, access, process, transfer or otherwise communicate Confidential Information, the Employee will comply with all laws and regulations applicable to exports and re-exports of data and information and will not, directly or
+indirectly, export or re-export any Confidential Information in violation of such laws and regulations, including without limitation, those prohibiting export or re-export to restricted countries or without governmental authorization.
+d. Upon termination of this Agreement or at the request of the Company, the Employee will ensure that all Confidential Information and all documents, memoranda, notes and other writings or electronic records prepared by the Employee that include or reflect any Confidential Information in the Employee’s actual or constructive possession are returned to the Company.
+e. The obligation not to disclose Confidential Information shall: (Check one)
+☐ Survive the termination of this Agreement, and at no time will the Employee be permitted to disclose Confidential Information, except to the extent that such Confidential Information is excluded from the obligations of confidentiality under this Agreement pursuant to Paragraph 2 above.
+☐ Remain in effect until __________ (Check one) ☐ months ☐ years from the date hereof, except to the extent that such Confidential Information is excluded from the obligations of confidentiality under this Agreement pursuant to Paragraph 2 above.
+4. Non-Compete. (Cross out if you do not want to include a non-compete clause)
+The Employee agrees that at no time will the Employee engage in any business activity which is competitive with the Company, nor work for any company which competes with the Company: (Check one)
+☐ During the term of the Employee’s relationship with the Company.
+☐ From the date of this Agreement until ____________________, 20______.
+5. Non-Solicitation. (Cross out if you do not want to include a non-solicitation clause)
+The Employee agrees not to solicit any employee or independent contractor of the Company on behalf of any other business enterprise, nor shall the Employee induce any employee or independent contractor associated with the Company to terminate or breach an employment, contractual or other relationship with the Company: (Check one)
+☐ During the term of the Employee’s relationship with the Company.
+☐ From the date of this Agreement until ____________________, 20______.
+6. Disclaimer. There is no representation or warranty, express or implied, made by the Company as to the accuracy or completeness of any of its Confidential Information.
+7. Remedies. The Employee acknowledges that use or disclosure of any Confidential Information in a manner inconsistent with this Agreement will give rise to irreparable injury for which damages would not be an adequate remedy. Accordingly, in addition to any other legal remedies which may be available at law or in equity, the Company shall be entitled to equitable or injunctive relief against the unauthorized use or disclosure of Confidential Information. The Company shall be entitled to pursue any other legally permissible remedy available as a result of such breach, including but not limited to damages, both direct
+and consequential. In any action brought by the Company under this Section, the Company shall be entitled to recover its attorney’s fees and costs from the Employee.
+8. Notices. All notices given under this Agreement must be in writing. A notice is effective upon receipt and shall be sent via one of the following methods: delivery in person, overnight courier service, certified or registered mail, postage prepaid, return receipt requested, addressed to the party to be notified at the below address or by facsimile at the below facsimile number or in the case of either party, to such other party, address or facsimile number as such party may designate upon reasonable notice to the other party.
+Disclosing Party
+Name: ________________________
+Representative name: ________________________ Title: ________________________
+Address: ________________________________________
+Phone number: ________________________
+Fax number: ________________________
+Receiving Party
+Name: ________________________
+Representative name: ________________________ Title: ________________________
+Address: ________________________________________
+Phone number: ________________________
+Fax number: ________________________
+9. Termination. This Agreement will terminate on the earlier of:
+(a) the written agreement of the parties to terminate this Agreement;
+(b) the cessation of the Employee's employment; or
+(c) __________ (Check one) ☐ months ☐ years from the date hereof.
+10. Amendment. This Agreement may be amended or modified only by a written agreement signed by both of the parties.
+11. Jurisdiction. This Agreement will be governed by and construed in accordance with the laws of the State of _________________, without regard to the principles of conflict of laws. Each party consents to the exclusive jurisdiction of the courts located in the State of _________________ for any legal action, suit or proceeding arising out of or in connection with this Agreement. Each party further waives any objection to the laying of venue for any such suit, action or proceeding in such courts.
+12. No Offer or Sale. Nothing in this Agreement will be deemed a sale or offer for sale of Confidential Information nor obligate the Company to grant the Employee a license or any rights, by statute, common law theory of estoppel or otherwise, to Confidential Information.
+13. Miscellaneous. No joint venture, partnership or agency relationship exists between the Employee, the Company or any third-party as a result of this Agreement. This Agreement will inure to the benefit of
+and be binding on the respective successors and permitted assigns of the parties. Neither party may assign its rights or delegate its duties under this Agreement without the other party’s prior written consent. In the event that any provision of this Agreement is held to be invalid, illegal or unenforceable in whole or in part, the remaining provisions shall not be affected and shall continue to be valid, legal and enforceable as though the invalid, illegal or unenforceable parts had not been included in this Agreement. Neither party will be charged with any waiver of any provision of this Agreement, unless such waiver is evidenced by a writing signed by the party and any such waiver will be limited to the terms of such writing.
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first written above.
+Employee Signature
+Employee Full Name
+Employer Signature
+Employer/Company Full Name
+Company Representative Signature
+Company Representative Name and Title
+
+
+
+
+   NON-DISCLOSURE AGREEMENT
+
+THIS AGREEMENT MADE ON THIS THE _________ DAY OF _________, 2016
+
+BY AND BETWEEN
+
+<Party 1>, a company incorporated under the Companies Act, 1956 and having its registered office at <<address>> (hereinafter referred to as “____”, which expression shall unless repugnant to the context or meaning thereof, include its successors in interests and assigns) OF THE ONE PART; 
+
+AND
+
+[Please fill in Customers name] a company incorporated under the Companies Act, 2013 and having its registered office at [Please fill in address] (hereinafter referred to as “Company” which expression shall, unless repugnant to the context or meaning thereof, be deemed to include, its representatives and permitted assigns) OF THE OTHER PART;
+
+PARTY 1 and COMPANY shall hereinafter be referred to as such or collectively as “Parties” and individually as “Party”.
+
+
+WHEREAS both the Parties herein wish to pursue discussions and negotiate with each other for the purpose of entering into a potential business arrangement in relation to [Please fill in details of proposed transaction] (“Proposed Transaction”);
+
+AND WHEREAS the Parties contemplate that with respect to the Proposed Transaction, both the Parties may exchange certain information, material and documents relating to each other’s business, assets, financial condition, operations, plans and/or prospects of their businesses (hereinafter referred to as “Confidential Information”, more fully detailed in clause 1 herein below) that each Party regards as proprietary and confidential; and
+
+AND WHEREAS, each Party wishes to review such Confidential Information of the other for the sole purpose of determining their mutual interest in engaging in the Proposed Transaction; 
+
+IN CONNECTION WITH THE ABOVE, THE PARTIES HEREBY AGREE AS FOLLOWS:
+
+1.	“Confidential and or proprietary Information” shall mean and include any information disclosed by one Party (Disclosing Party) to the other (Receiving Party) either directly or indirectly, in writing, orally, by inspection of tangible objects (including, without limitation, documents, prototypes, samples, media, documentation, discs and code). Confidential information shall include, without limitation, any materials, trade secrets, network information, configurations, trademarks, brand name, know-how, business and marketing plans, financial and operational information, and all other non-public information, material or data relating to the current and/ or future business and operations of the Disclosing Party and analysis, compilations, studies, summaries, extracts or other documentation prepared by the Disclosing Party. Confidential Information may also include information disclosed to the Receiving Party by third parties on behalf of the Disclosing Party. 
+
+2.	The Receiving Party shall refrain from disclosing, reproducing, summarising and/or distributing Confidential Information and confidential materials of the Disclosing Party except in connection with the Proposed Transaction.
+
+3.	The Parties shall protect the confidentiality of each other’s Confidential Information in the same manner as they protect the confidentiality of their own proprietary and confidential information of similar nature. Each Party, while acknowledging the confidential and proprietary nature of the Confidential Information agrees to take all reasonable measures at its own expense to restrain its representatives from prohibited or unauthorised disclosure or use of the Confidential Information.
+
+4.	Confidential Information shall at all times remain the property of the Disclosing Party and may not be copied or reproduced by the Receiving Party without the Disclosing Party’s prior written consent.   
+
+5.	Within seven (7) days of a written request by the Disclosing Party, the Receiving Party shall return/destroy (as may be requested in writing by the Disclosing Party or upon expiry and or earlier termination) all originals, copies, reproductions and summaries of Confidential Information provided to the Receiving Party as Confidential Information.  The Receiving Party shall certify to the Disclosing Party in writing that it has satisfied its obligations under this paragraph.  
+
+6.	The Receiving Party may disclose the Confidential Information only to the Receiving Party's employees and consultants on a need-to-know basis.  The Receiving Party shall have executed or shall execute appropriate written agreements with third parties, in a form and manner sufficient to enable the Receiving Party to enforce all the provisions of this Agreement.
+
+7.	Confidential Information, however, shall not include any information which the Receiving Party can show: 
+
+i)	is in or comes into the public domain otherwise than through a breach of this Agreement or the fault of the Receiving Party; or
+
+ii)	was already in its possession free of any such restriction prior to receipt from the Disclosing Party; or
+
+iii)	was independently developed by the Receiving Party without making use of the Confidential Information; or
+
+iv)	has been approved for release or use (in either case without restriction) by written authorisation of the Disclosing Party.
+
+8.	In the event either Party receives a summons or other validly issued administrative or judicial process requiring the disclosure of Confidential Information of the other Party, the Receiving Party shall promptly notify the Disclosing Party.  The Receiving Party may disclose Confidential Information to the extent such disclosure is required by law, rule, regulation or legal process; provided however, that, to the extent practicable, the Receiving Party shall give prompt written notice of any such request for such information to the Disclosing Party,  and agrees to co-operate with the Disclosing Party, at the Disclosing Party’s expense, to the extent permissible and practicable, to challenge the request or limit the scope there of, as the Disclosing Party may reasonably deem appropriate.
+
+9.	Neither Party shall use the other’s name, trademarks, proprietary words or symbols or disclose under this Agreement in any publication, press release, marketing material, or otherwise without the prior written approval of the other.
+
+10.	Each Party agrees that the conditions in this Agreement and the Confidential Information disclosed pursuant to this Agreement are of a special, unique, and extraordinary character and that an impending or existing violation of any provision of this Agreement would cause the other Party irreparable injury for which it would have no adequate remedy at law and further agrees that the other Party shall be entitled to obtain immediately injunctive relief prohibiting such violation, in addition to any other rights and remedies available to it at law or in equity.
+
+11.	The Receiving Party shall indemnify the Disclosing Party for all costs, expenses or damages that Disclosing Party incurs as a result of any violation of any provisions of this Agreement. This obligation shall include court, litigation expenses, and actual, reasonable attorney’s fees. The Parties acknowledge that as damages may not be a sufficient remedy for any breach under this Agreement, the non-breaching party is entitled to seek specific performance or injunctive relief (as appropriate) as a remedy for any breach or threatened breach, in addition to any other remedies at law or in equity.
+
+12. 	Neither Party shall be liable for any special, consequential, incidental or exemplary damages or loss (or any lost profits, savings or business opportunity) regardless of whether a Party was advised of the possibility of the damage or loss asserted.
+
+13.  	Both the Parties agree that by virtue of the Parties entering into this Agreement neither Party is obligated to disclose all or any of the Confidential Information to the other as stated in this Agreement. The Parties reserve the right to disclose only such information at its discretion and which it thinks, is necessary to disclose in relation to the Proposed Transaction.
+
+14. 	Both the Parties agree that this Agreement will be effective from the date of execution of this Agreement by both Parties and shall continue to be effective till the Proposed Transaction is terminated by either Party by giving a thirty (30)days notice, in case either Party foresees that the Proposed Transaction would not be achieved. 
+
+Notwithstanding anything contained herein, the provisions of this Agreement shall survive and continue after expiration or termination of this Agreement for a further period of five year(s) from the date of expiration.
+
+It being further clarified that notwithstanding anything contained herein, in case a binding agreement is executed between the Parties in furtherance of the Proposed Transaction, the terms and conditions of this Agreement shall become effective and form a part of that binding agreement and be co-terminus with such binding agreement and shall be in effect till the term of such binding agreement and shall after its expiry and or early termination shall continue to be in force in the following manner: 
+
+i.	… ………….. years after the termination of the binding agreement
+ii.	……… ……years after the expiry of the binding agreement 
+
+(whichever is earlier)
+
+15. 	Each Party warrants that it has the authority to enter into this Agreement.
+
+16. 	If any provision of this agreement is held to be invalid or unenforceable to any extent, the remainder of this Agreement shall not be affected and each provision hereof shall be valid and enforceable to the fullest extent permitted by law.  Any invalid or unenforceable provision of this Agreement shall be replaced with a provision that is valid and enforceable and most nearly reflects the original intent of the unenforceable provision.
+
+17. 	This Agreement may be executed in two counterparts, each of which will be deemed to be an original, and all of which, when taken together, shall be deemed to constitute one and the same agreement.
+
+18.  	The relationship between both the Parties to this Agreement shall be on a principal-to-principal basis and nothing in this agreement shall be deemed to have created a relationship of an agent or partner between the Parties and none of the employees of COMPANY shall be considered as employees of PARTY 1.
+
+19. 	This Agreement shall be governed by the laws of India. Both parties irrevocably submit to the exclusive jurisdiction of the Courts in Bangalore, for any action or proceeding regarding this Agreement. Any dispute or claim arising out of or in connection herewith, or the breach, termination or invalidity thereof, shall be settled by arbitration in accordance with the provisions of Procedure of the Indian Arbitration & Conciliation Act, 1996, including any amendments thereof. The arbitration tribunal shall be composed of a sole arbitrator, and such arbitrator shall be appointed mutually by the Parties. The place of arbitration shall be Bangalore, India and the arbitration proceedings shall take place in the English language.
+
+20. 	Additional oral agreements do not exist. All modifications and amendments to this Agreement must be made in writing.
+
+21. 	The Agreement and/or any rights arising from it cannot be assigned or otherwise transferred either wholly or in part, without the written consent of the other Party.
+
+
+
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, THE PARTIES HERETO HAVE EXECUTED THIS CONFIDENTIALITY AGREEMENT IN DUPLICATE BY AFFIXING THE SIGNATURE OF THE AUTHORISED REPRESENTATIVES AS OF THE DATE HEREIN ABOVE MENTIONED.
+
+
+Party 1		[Please fill in Customer name]
+Signature 1			Signature 1	
+Name			Name	
+Désignations			Désignations	
+Place			Place	
+Date			Date	
+	
+Signature 2			Signature 2	
+Name 			Name	
+Désignations 			Désignations	
+Place Date			Place	
+Date			Date	
+
+
+
+
+
+
+State of __________
+NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT
+This Non-Disclosure and Confidentiality Agreement (this “Agreement”) is entered into as of
+____________________, 20______ (the “Effective Date”) by and between:
+Disclosing Party: ____________________________, as a(n) (Check one) ☐ Individual
+☐ Corporation ☐ Limited Liability Company ☐ Partnership ☐ Limited Partnership ☐ Limited
+Liability Partnership ("Disclosing Party") and
+Receiving Party: ____________________________, as a(n) (Check one) ☐ Individual
+☐ Corporation ☐ Limited Liability Company ☐ Partnership ☐ Limited Partnership ☐ Limited
+Liability Partnership ("Receiving Party")
+Disclosing Party and Receiving Party have indicated an interest in exploring a potential business
+relationship relating to: _________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________ (the “Transaction”).
+In connection with its respective evaluation of the Transaction, each party, their respective affiliates and
+their respective directors, officers, employees, agents or advisors (collectively, “Representatives”) may
+provide or gain access to certain confidential and proprietary information. A party disclosing its
+Confidential Information to the other party is hereafter referred to as a “Disclosing Party.” A party
+receiving the Confidential Information of a Disclosing Party is hereafter referred to as a “Receiving Party.”
+In consideration for being furnished Confidential Information, Disclosing Party and Receiving Party agree
+as follows:
+1. Confidential Information. Confidential information is: (Check one)
+☐ All information shared by Disclosing Party. "Confidential Information" shall mean (i) all information
+relating to Disclosing Party’s products, business and operations including, but not limited to, financial
+documents and plans, customers, suppliers, manufacturing partners, marketing strategies, vendors,
+products, product development plans, technical product data, product samples, costs, sources, strategies,
+operations procedures, proprietary concepts, inventions, sales leads, sales data, customer lists, customer
+profiles, technical advice or knowledge, contractual agreements, price lists, supplier lists, sales estimates,
+product specifications, trade secrets, distribution methods, inventories, marketing strategies, source code,
+software, algorithms, data, drawings or schematics, blueprints, computer programs and systems and
+know-how or other intellectual property of Disclosing Party and its affiliates that may be at any time
+furnished, communicated or delivered by Disclosing Party to Receiving Party, whether in oral, tangible,
+electronic or other form; (ii) the terms of any agreement, including this Agreement, and the discussions,
+negotiations and proposals related to any agreement; (iii) information acquired during any tours of
+Disclosing Party’s facilities; and (iv) all other non-public information provided by Disclosing Party
+whosoever. All Confidential Information shall remain the property of Disclosing Party.
+☐ Only information marked ‘Confidential.’ "Confidential Information," exchanged by the parties and
+entitled to protection hereunder, shall be identified or marked as such by an appropriate stamp or marking
+on each document exchanged designating the information as confidential or proprietary.
+☐ Specific information. The term “Confidential Information” as used in this Agreement shall mean any
+data or information that is competitively sensitive material and not generally known to the public,
+including, but not limited to, information relating to any of the following, which Disclosing Party considers
+confidential: (Check all that apply)
+☐ 'Accounting Information' which includes all books, tax returns, financial information, financial
+forecasts, pricing lists, purchasing lists and memos, pricing forecasts, purchase order information,
+supplier costs and discounts, or related financial or purchasing information.
+☐ 'Business Operations' which includes all processes, proprietary information or data, ideas or the
+like, either in existence or contemplated related to Disclosing Party’s daily and long-term plans for
+conducting Disclosing Party's business.
+☐ 'Computer Technology' which includes all computer hardware, software or other tangible and
+intangible equipment or code either in existence or development.
+☐ 'Customer Information' which includes the names of entities or individuals, including their affiliates
+and representatives, that Disclosing Party provides and sells its services or goods to, as well as any
+associated information, including but not limited to, leads, contact lists, sales plans and notes, shared
+and learned sales information such as pricing sheets, projections or plans, agreements, or such other
+data.
+☐ 'Intellectual Property' which includes patents, trademarks, service marks, logos, trade names,
+internet or website domain names, rights in designs and schematics, copyrights (including rights in
+computer software), moral rights, database rights, in each case whether registered or unregistered
+and including applications for registration, in all rights or forms anywhere in the world.
+☐ 'Marketing and Sales Information' which includes all customer leads, sales targets, sales markets,
+advertising materials, sales territories, sales goals and projections, sales and marketing processes or
+practices, training manuals or other documentation and materials related to the sales, marketing and
+promotional activities of the Disclosing Party and its products or services.
+☐ 'Proprietary Rights’ which includes any and all rights, whether registered or unregistered, in and
+with respect to patents, copyrights, trade names, domain names, logos, trademarks, service marks,
+confidential information, know-how, trade secrets, moral rights, contract or licensing rights, whether
+protected under contract or otherwise under law, and other similar rights or interests in intellectual
+property.
+☐ 'Procedures and Specifications' which includes all procedures and other specifications, criteria,
+standards, methods, instructions, plans or other directions prescribed by Disclosing Party for the
+manufacture, preparation, packaging and labelling, and sale of its products or services.
+☐ 'Product Information' which includes Disclosing Party’s products which are being contemplated for
+sale, manufactured, marketed, listed, or sold, including any fixes, revisions, upgrades, or versions, of
+which consists of all data, software and documentation related thereto.
+☐ 'Service Information' which means the services provided by Disclosing Party, including the
+method, details, means, skills and training, which consists of all data, software and documentation
+related thereto.
+☐ 'Software Information' which means the proprietary computer programs of Disclosing Party,
+including all fixes, upgrades, new versions, new enhancements, modifications, edits, conversions,
+replacements, or the like, in machine readable form or documentation and materials, and all copies
+and translations of such computer programs, documentation and materials, regardless of the form or
+media of expression or storage.
+☐ Other: ________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+2. Exclusions from Confidential Information. The obligation of confidentiality with respect to
+Confidential Information will not apply to any information:
+a. If the information is or becomes publicly known and available other than as a result of prior
+unauthorized disclosure by Receiving Party or any of its Representatives;
+b. If the information is or was received by Receiving Party from a third party source which, to the best
+knowledge of Receiving Party or its Representatives, is or was not under a confidentiality obligation to
+Disclosing Party with regard to such information;
+c. If the information is disclosed by Receiving Party with the Disclosing Party’s prior written permission
+and approval;
+d. If the information is independently developed by Receiving Party prior to disclosure by Disclosing
+Party and without the use and benefit of any of the Disclosing Party’s Confidential Information; or
+e. If Receiving Party or any of its Representatives is legally compelled by applicable law, by any court,
+governmental agency or regulatory authority or by subpoena or discovery request in pending litigation
+but only if, to the extent lawful, Receiving Party or its Representatives give prompt written notice of
+that fact to Disclosing Party prior to disclosure so that Disclosing Party may request a protective order
+or other remedy to prevent or limit such disclosure and in the absence of such protective order or
+other remedy, Receiving Party or its Representatives may disclose only such portion of the
+Confidential Information which it is legally obligated to disclose.
+3. Obligation to Maintain Confidentiality. With respect to Confidential Information:
+a. Receiving Party and its Representatives agree to retain the Confidential Information of the
+Disclosing Party in strict confidence, to protect the security, integrity and confidentiality of such
+information and to not permit unauthorized access to or unauthorized use, disclosure, publication or
+dissemination of Confidential Information except in conformity with this Agreement;
+b. Receiving Party and its Representatives shall adopt and/or maintain security processes and
+procedures to safeguard the confidentiality of all Confidential Information received by Disclosing Party
+using a reasonable degree of care, but not less than that degree of care used in safeguarding its own
+similar information or material;
+c. Upon the termination of this Agreement, Receiving Party will ensure that all documents,
+memoranda, notes and other writings or electronic records prepared by it that include or reflect any
+Confidential Information are returned or destroyed as directed by Disclosing Party;
+d. If there is an unauthorized disclosure or loss of any of the Confidential Information by Receiving
+Party or any of its Representatives, Receiving Party will promptly, at its own expense, notify Disclosing
+Party in writing and take all actions as may be necessary or reasonably requested by Disclosing Party
+to minimize any damage to the Disclosing Party or a third party as a result of the disclosure or loss;
+and
+e. The obligation not to disclose Confidential Information shall: (Check one)
+☐ Survive the termination of this Agreement, and at no time will Receiving Party or any of its
+Representatives be permitted to disclose Confidential Information, except to the extent that such
+Confidential Information is excluded from the obligations of confidentiality under this Agreement
+pursuant to Paragraph 2 above.
+☐ Remain in effect until __________ (Check one) ☐ months ☐ years from the date hereof or
+until the Confidential Information ceases to be a trade secret, except to the extent that such
+Confidential Information is excluded from the obligations of confidentiality under this Agreement
+pursuant to Paragraph 2 above.
+4. Non-Disclosure of Transaction. Without Disclosing Party’s prior written consent, neither Receiving
+Party nor its Representatives shall disclose to any other person, except to the extent, the provisions of
+Paragraph 2 apply: (a) the fact that Confidential Information has been made available to it or that it has
+inspected any portion of the Confidential Information; (b) the fact that Disclosing Party and Receiving
+Party are having discussions or negotiation concerning the Transaction; or (c) any of the terms,
+conditions or other facts with respect to the Transaction.
+5. Non-Compete. (Cross out if you do not want to include a non-compete clause)
+Receiving Party agrees that at no time will Receiving Party engage in any business activity which is
+competitive with Disclosing Party, nor work for any company which competes with Disclosing party:
+(Check one)
+☐ During the term of Receiving Party’s relationship with Disclosing Party.
+☐ From the date of this Agreement until ____________________, 20______.
+6. Non-Solicitation. (Cross out if you do not want to include a non-solicitation clause)
+Receiving Party agrees not to solicit any employee or independent contractor of Disclosing Party on
+behalf of any other business enterprise, nor shall Receiving Party induce any employee or independent
+contractor associated with Disclosing Party to terminate or breach an employment, contractual or other
+relationship with Disclosing Party: (Check one)
+☐ During the term of Receiving Party’s relationship with Disclosing Party.
+☐ From the date of this Agreement until ____________________, 20______.
+7. Representatives. Receiving Party will take reasonable steps to ensure that its Representatives
+adhere to the terms of this Agreement. Receiving Party will be responsible for any breach of this
+Agreement by any of its Representatives.
+8. Disclaimer. There is no representation or warranty, express or implied, made by Disclosing Party as
+to the accuracy or completeness of any of its Confidential Information. Except for the matters set forth in
+this Agreement, neither party will be under any obligation with regard to the Transaction. Either party
+may, in its sole discretion: (a) reject any proposals made by the other party or its Representatives with
+respect to the Transaction; (b) terminate discussions and negotiations with the other party or its
+Representatives at any time and for any reason or for no reason; and (c) change the procedures relating
+to the consideration of the Transaction at any time without prior notice to the other party.
+9. Remedies. Each party agrees that use or disclosure of any Confidential Information in a manner
+inconsistent with this Agreement will give rise to irreparable injury for which: (a) money damages may not
+be a sufficient remedy for any breach of this Agreement by such party; (b) the other party may be entitled
+to specific performance and injunction and other equitable relief with respect to any such breach; (c) such
+remedies will not be the exclusive remedies for any such breach, but will be in addition to all other
+remedies available at law or in equity; and (d) in the event of litigation relating to this Agreement, if a court
+of competent jurisdiction determines in a final non-appealable order that one party, or any of its
+Representatives, has breached this Agreement, such party will be liable for reasonable legal fees and
+expenses incurred by the other party in connection with such litigation, including, but not limited to, any
+appeals.
+10. Notices. All notices given under this Agreement must be in writing. A notice is effective upon receipt
+and shall be sent via one of the following methods: delivery in person, overnight courier service, certified
+or registered mail, postage prepaid, return receipt requested, addressed to the party to be notified at the
+below address or by facsimile at the below facsimile number or in the case of either party, to such other
+party, address or facsimile number as such party may designate upon reasonable notice to the other
+party.
+Disclosing Party
+Name: ________________________
+Representative name: ________________________ Title: ________________________
+Address: ________________________________________
+Phone number: ________________________
+Fax number: ________________________
+Receiving Party
+Name: ________________________
+Representative name: ________________________ Title: ________________________
+Address: ________________________________________
+Phone number: ________________________
+Fax number: ________________________
+11. Termination. This Agreement will terminate on the earlier of:
+(a) the written agreement of the parties to terminate this Agreement;
+(b) the consummation of the Transaction or
+(c) __________ (Check one) ☐ months ☐ years from the date hereof.
+12. Amendment. This Agreement may be amended or modified only by a written agreement signed by
+both of the parties.
+13. Jurisdiction. This Agreement will be governed by and construed in accordance with the laws of the
+State of _________________, without regard to the principles of conflict of laws. Each party consents to
+the exclusive jurisdiction of the courts located in the State of _________________ for any legal action,
+suit or proceeding arising out of or in connection with this Agreement. Each party further waives any
+objection to the laying of venue for any such suit, action or proceeding in such courts.
+14. Miscellaneous. This Agreement will inure to the benefit of and be binding on the respective
+successors and permitted assigns of the parties. Neither party may assign its rights or delegate its duties
+under this Agreement without the other party’s prior written consent. In the event that any provision of this
+Agreement is held to be invalid, illegal or unenforceable in whole or in part, the remaining provisions shall
+not be affected and shall continue to be valid, legal and enforceable as though the invalid, illegal or
+unenforceable parts had not been included in this Agreement. Neither party will be charged with any
+waiver of any provision of this Agreement, unless such waiver is evidenced by a writing signed by the
+party and any such waiver will be limited to the terms of such writing.
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first written
+above.
+Disclosing Party:
+Disclosing Party Signature Disclosing Party Full Name
+Disclosing Party Representative
+Signature
+Disclosing Party Representative
+Full Name and Title
+Receiving Party:
+Receiving Party Signature Receiving Party Full Name
+Receiving Party Representative
+Signature
+Receiving Party Representative
+Full Name and Title
