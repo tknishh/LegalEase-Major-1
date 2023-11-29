@@ -2,11 +2,11 @@ import os
 import random
 import streamlit as st
 
-#decorator
+# decorator
 def enable_chat_history(func):
     if os.environ.get("OPENAI_API_KEY"):
 
-        # to clear chat history after swtching chatbot
+        # to clear chat history after switching chatbot
         current_page = func.__qualname__
         if "current_page" not in st.session_state:
             st.session_state["current_page"] = current_page
@@ -46,7 +46,7 @@ def configure_openai_api_key():
     if openai_api_key:
         os.environ["OPENAI_API_KEY"] = openai_api_key
     else:
-        st.error("Please add your OpenAI API key to continue.")
+        st.error("Please add your OpenAI API key in left pane to continue.")
         st.info("Obtain your key from this link: https://platform.openai.com/account/api-keys")
         st.stop()
     return openai_api_key
