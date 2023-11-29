@@ -65,7 +65,6 @@ if file is not None:
         st.success(response)
         
            
-        st.success(response)
 
 
 # import os
