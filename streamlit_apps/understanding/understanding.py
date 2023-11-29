@@ -18,6 +18,8 @@ st.set_page_config(page_title="LegalEase: Understand with Ease")
 st.header("LegalEase: Understand with Ease📄")
 file = st.file_uploader("Upload your file")
 
+chat_history_und = []
+
 if file is not None:
     content = file.read()  # Read the file content once
 
@@ -43,8 +45,6 @@ if file is not None:
     embeddings = OpenAIEmbeddings()
     knowledge_base = FAISS.from_texts(chunks, embeddings)
 
-    chat_history = []
-    chat_history_file = "chat_history_und.txt"
     query = st.text_input("Ask you question")
     if query:
         docs = knowledge_base.similarity_search(query)
@@ -52,14 +52,16 @@ if file is not None:
         llm = OpenAI()
         chain = load_qa_chain(llm, chain_type="stuff")
         response = chain.run(input_documents=docs, question=query)
-        result = response(
-        {"question": query, "chat_history": chat_history})
-        print(f"Answer: " + result["answer"])
-        chat_history.append((query, result["answer"]))
+        
+        chat_history_und.append((query, response))
 
-        with open(chat_history_file, "a") as f:
-            f.write(f"Q: {query}\n")
-            f.write(f"A: {result['answer']}\n")
-            f.write("----------------------------------------\n")
+        # Chat history
+        st.text("Conversation History:")
+        for turn in chat_history_und:
+            st.text(f"User: {turn[0]}")
+            st.text(f"LegalEase: {turn[1]}")
+            st.text("-----")
+
+
            
         st.success(response)
