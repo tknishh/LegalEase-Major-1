@@ -298,7 +298,7 @@ def update_and_save_pdf(file_path, state, effective_date, disclosing_party, rece
     updated_text = updated_text.replace('<DISCLOSING_PARTY>', disclosing_party)
     updated_text = updated_text.replace('<RECEIVING_PARTY>', receiving_party)
     updated_text = updated_text.replace('<TRANSACTION>', transaction)
-    updated_text = updated_text.encode('latin-1', 'replace').decode('latin-1')
+    updated_text = updated_text.encode('utf-8', 'replace').decode('latin-1')
 
     # Create a new PDF file with the updated text
     new_file_path = file_path.replace('.pdf', '_updated.pdf')
@@ -315,15 +315,23 @@ def update_and_save_pdf(file_path, state, effective_date, disclosing_party, rece
 
 
 def work_with_existing_template(template):
-    if template == "NDA":
-        file_path = 'data/Non-Disclosure-Agreement-NDA-Template.pdf'
+    if template == "None":
+        st.info("Please select a template from the dropdown")
+        
+    elif template == "NDA":
         state = st.text_input("Enter the state: ") 
         effective_date = st.text_input("Enter the effective date: ") 
         disclosing_party = st.text_input("Enter the disclosing party: ") 
         receiving_party = st.text_input("Enter the receiving party: ") 
         transaction = st.text_input("Enter the transaction: ")
-        updated_file_path = update_and_save_pdf(file_path, state, effective_date, disclosing_party, receiving_party, transaction)
-        st.success("Updated file saved at: " + updated_file_path)
+        var_status = st.button("Generate")
+        if var_status:
+            file_path = 'data/Non-Disclosure-Agreement-NDA-Template.pdf'
+            updated_file_path = update_and_save_pdf(file_path, state, effective_date, disclosing_party, receiving_party, transaction)
+            st.success("Updated file saved at: " + updated_file_path)
+        else:
+            st.info("Please enter the details")
+        
 class Basic:
 
     def __init__(self):
@@ -340,8 +348,17 @@ class Basic:
         generation_option = st.radio("Select an option:", ("Upload new template", "Use existing template"))
         if generation_option == "Upload new template":
             upload_new_template()
+            chain = self.setup_chain()
+            user_query = st.chat_input(placeholder="Ask me anything!")
+            if user_query:
+                utils.display_msg(user_query, 'user')
+                with st.chat_message("assistant"):
+                    st_cb = StreamHandler(st.empty())
+                    response = chain.run(user_query, callbacks=[st_cb])
+                    st.session_state.messages.append({"role": "assistant", "content": response})
+            
         elif generation_option == "Use existing template":
-            template = st.selectbox("Select a template:", ("NDA", "Master Agreement", "Evaluation Agreement"))
+            template = st.selectbox("Select a template:", ("None","NDA", "Master Agreement", "Evaluation Agreement"))
             work_with_existing_template(template)
 
 
